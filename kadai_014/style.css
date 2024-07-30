@@ -11,7 +11,7 @@ html {
    font-size: 20px; text-align: center;
 }
 h1 {
-   font-size: 2em; letter-spacing: 1.2em; text-shadow: 2px 2px 3px gold; border-bottom: solid 3px rgb(115,115,114);
+   font-size: 2rem; letter-spacing: 1.2em; text-shadow: 2px 2px 3px gold; border-bottom: solid 3px rgb(115,115,114);
 }
 .M-deco {
   color: skyblue;
